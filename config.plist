@@ -532,9 +532,9 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>Broadcom BT Injector | BrcmBluetoothInjectorLegacy.kext</string>
+				<string>BrcmBluetoothInjectorLegacy.kext</string>
 				<key>Comment</key>
-				<string>Req. for macOS 10.10 or earlier</string>
+				<string>Broadcom BT Injector | Req. for macOS 10.10 or earlier</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
